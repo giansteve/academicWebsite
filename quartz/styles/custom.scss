@@ -11,3 +11,13 @@
   float: left;
   margin: 0 1rem 1rem 0;
 }
+
+// Cupertino theme leaves --quartz-icon-color as `currentColor`, which falls back to the
+// browser's default button text color (an OS-level system color) instead of the theme's
+// palette, making these icons blend into the light-mode button background.
+:root[saved-theme="light"] {
+  button.darkmode,
+  button.readermode {
+    --quartz-icon-color: var(--icon-color);
+  }
+}
