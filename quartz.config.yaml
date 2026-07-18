@@ -14,7 +14,7 @@ configuration:
     - .obsidian
   theme:
     fontOrigin: googleFonts
-    cdnCaching: true
+    cdnCaching: false
     typography:
       header: Schibsted Grotesk
       body: Source Sans Pro
@@ -264,7 +264,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: things-3
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
