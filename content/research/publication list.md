@@ -9,6 +9,7 @@ aliases:
 - [ORCID 0000-0002-3521-1049](https://orcid.org/0000-0002-3521-1049)
 
 ## 2026
+- Jin, Y., Pepe, A., **Melito, G. M.**, Chen, Y., Ma, G., Byeon, Y., ... & Egger, J. (2026). [Automatic segmentation and modeling of the aortic vessel tree: Overview of the SEG.A 2023 aorta segmentation challenge](https://doi.org/10.1016/j.media.2026.104324). _Medical Image Analysis_, _115_, 104324. ^jin2026
 - Puščul, D., Steinberger, M., **Melito, G. M.**, Shao, L., & Lex, C. (2026). [Estimation of the Vehicle Sideslip Angle with a linear Kalman Filter using a phenomenological Tire Model](https://doi.org/10.1080/00423114.2026.2683875). _Vehicle System Dynamics_. ^puscul2026
 
 ## 2025
