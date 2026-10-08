@@ -9,13 +9,15 @@ aliases:
 - [ORCID 0000-0002-3521-1049](https://orcid.org/0000-0002-3521-1049)
 
 ## Journal articles
+- Lindbichler, L., **Melito, G. M.**, Klanner, M., & Ellermann, K. (in press). Impact of wheel rail contact uncertainties on the efficiency of active steering in railway wheelsets. _Multibody System Dynamics_. ^lindbichler2026
+
 - Jin, Y., Pepe, A., **Melito, G. M.**, Chen, Y., Ma, G., Byeon, Y., ... & Egger, J. (2026). [Automatic segmentation and modeling of the aortic vessel tree: Overview of the SEG.A 2023 aorta segmentation challenge](https://doi.org/10.1016/j.media.2026.104324). _Medical Image Analysis_, _115_, 104324. ^jin2026
 
 - Puščul, D., Steinberger, M., **Melito, G. M.**, Shao, L., & Lex, C. (2026). [Estimation of the Vehicle Sideslip Angle with a linear Kalman Filter using a phenomenological Tire Model](https://doi.org/10.1080/00423114.2026.2683875). _Vehicle System Dynamics_. ^puscul2026
 
 - Li, J., Zhou, Z., Yang, J., Pepe, A., Gsaxner, C., Luijten, G., ... **Melito, G. M.**, ... & Reyes, M. (2025). [MedShapeNet – a large-scale dataset of 3D medical shapes for computer vision](https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0396/html). _Biomedical Engineering/Biomedizinische Technik_, 70(1), 71-90 ^a267a8
 
-- Bošnjak, D., **Melito, G. M.**, Schussnig, R., Ellermann, K., & Fries, T.-P. (2025). [SynthAorta: A 3D mesh dataset of parametrized physiological healthy aortas](https://doi.org/10.1109/TMI.2025.3599937). _IEEE Transactions on Medical Imaging_, _45_(1), 421–430. ^503860
+- Bošnjak, D., **Melito, G. M.**, Schussnig, R., Ellermann, K., & Fries, T.-P. (2026). [SynthAorta: A 3D mesh dataset of parametrized physiological healthy aortas](https://doi.org/10.1109/TMI.2025.3599937). _IEEE Transactions on Medical Imaging_, _45_(1), 421–430. ^503860
 - Jafarinia, A., Badeli, V., Krispel, T., **Melito, G. M.**, Brenn, G., Reinbacher-Köstinger, A., Kaltenbacher, M., & Hochrainer, T. (2024). [Modeling Anisotropic Electrical Conductivity of Blood: Translating Microscale Effects of Red Blood Cell Motion into a Macroscale Property of Blood](https://www.mdpi.com/2306-5354/11/2/147). _Bioengineering_, 11(2), 147. ^9e02ff
 - Jafarinia, A., **Melito, G. M.**, Müller, T. S., Rolf-Pissarczyk, M., Holzapfel, G. A., Brenn, G., Ellermann, K., & Hochrainer, T. (2023). [Morphological parameters affecting false lumen thrombosis following type B aortic dissection: a systematic study based on simulations of idealized models](https://pubmed.ncbi.nlm.nih.gov/36630014/). _Biomechanics and Modeling in Mechanobiology_, 22(3), 885-904. ^a5e2c7
 - Badeli, V., Jafarinia, A., **Melito, G. M.**, Müller, T. S., Reinbacher‐Köstinger, A., Hochrainer, T., ... & Kaltenbacher, M. (2023). [Monitoring of false lumen thrombosis in type B aortic dissection by impedance cardiography–A multiphysics simulation study](https://pubmed.ncbi.nlm.nih.gov/36507557/). _International Journal for Numerical Methods in Biomedical Engineering_, 39(2), e3669. ^30c813
