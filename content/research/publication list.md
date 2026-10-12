@@ -9,7 +9,10 @@ aliases:
 - [ORCID 0000-0002-3521-1049](https://orcid.org/0000-0002-3521-1049)
 
 ## Journal articles
+
 - Lindbichler, L., **Melito, G. M.**, Klanner, M., & Ellermann, K. (in press). Impact of wheel rail contact uncertainties on the efficiency of active steering in railway wheelsets. _Multibody System Dynamics_. ^lindbichler2026
+
+- Felić, H., Wijaya, A. E., **Melito, G. M.**, Schweiger, H. F., & Tschuchnigg, F. (in press). Surrogate models for forward simulation and inverse parameter identification using numerical cone penetration test data. _Computers and Geotechnics_. ^felic2026cg
 
 - Jin, Y., Pepe, A., **Melito, G. M.**, Chen, Y., Ma, G., Byeon, Y., ... & Egger, J. (2026). [Automatic segmentation and modeling of the aortic vessel tree: Overview of the SEG.A 2023 aorta segmentation challenge](https://doi.org/10.1016/j.media.2026.104324). _Medical Image Analysis_, _115_, 104324. ^jin2026
 

@@ -18,7 +18,7 @@ I am working on sensitivity and parameter identification problems in vehicle dyn
 I am applying global sensitivity analysis and polynomial chaos expansion to parameter identification problems in materials science, with a focus on linking sensitivity indices to information-theoretic measures for optimal experimental design. ^789e4a
 
 **Soil mechanics**
-I am exploring Bayesian inversion methods integrated with sensitivity information for the calibration of constitutive soil models, connecting global and local sensitivity measures to parameter identifiability (see [[publication list#^felic2026|felić2026]]).
+I am exploring Bayesian inversion methods integrated with sensitivity information for the calibration of constitutive soil models, connecting global and local sensitivity measures to parameter identifiability (see [[publication list#^felic2026cg|felić2026a]], [[publication list#^felic2026|felić2026b]]).
 
 ## During my PhD
 
