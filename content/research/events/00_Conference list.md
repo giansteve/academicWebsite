@@ -4,6 +4,9 @@ tags:
   - research
   - "#conference"
 ---
+## 2027
+- F. Schäfer, G.M. Melito, S. Brandstäter, S. Razavi, B. Iooss
+  Co-organizer of [MS11: From Sensitivity to Knowledge: Global Sensitivity Analysis as a Framework for Information Gain and Loss in Computational Models](https://2027.uncecomp.org/content/accepted-minisymposia) at [[UNCECOMP 2027]] conference, Crete (GR)
 ## 2026
 - S. Brandstaeter, G.M. Melito, F. Schäfer, W. Huberts, B. Sudret
   Co-organizer of [MS203: Sensitivity Analysis in Science and Engineering](https://wccm-eccomas2026.org/event/area/826185b1-ab83-11f0-bce5-000c29ddfc0c) at [[WCCM ECCOMAS 2026]] conference, Munich (DE)

@@ -1,5 +1,5 @@
 ---
-title: WCCM ECCOMAS 2026
+title: 2026 WCCM & ECCOMAS 
 tags:
   - research
   - conference
